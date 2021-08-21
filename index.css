@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+.background {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading-1 {
+  font-size: 20px;
+  color: #f8fcfa;
+  text-align: center;
+  font-family: "Roboto";
+}
+
+.heading-2 {
+  font-size: 40px;
+  color: #f8fcfa;
+  text-align: center;
+  font-family: "Roboto";
+}
+
+.image_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.image {
+  height: 50%;
+  width: 50%;
+}
